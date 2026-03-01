@@ -1,0 +1,5 @@
+{
+  "name": "MealPrep Pro - Healthy Meals",
+  "description": "A landing page for a healthy meal delivery service with customizable plans.",
+  "requestFramePermissions": ["microphone"]
+}
